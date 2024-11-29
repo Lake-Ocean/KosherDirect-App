@@ -2,6 +2,9 @@
 
 The **KosherDirect** app provides users with a comprehensive and up-to-date database of kosher-certified products, powered by OK Kosher Certification. With options to search by company or category, KosherDirect helps users access reliable kosher information anytime, whether at home, on the go, or in the supermarket.
 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg' alt='Get it on Google Play' height="50px" width="180px">](https://2ly.link/1zkKj)
+[<img src='https://apple-resources.s3.amazonaws.com/media-badges/download-on-the-app-store/black/en-us.svg' alt="Download on the App Store" height="50px" width="180px">](https://2ly.link/1zkKV) 
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
